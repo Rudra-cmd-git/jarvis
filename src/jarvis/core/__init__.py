@@ -1,0 +1,1 @@
+"""Core utilities: errors, logging, shared helpers."""
